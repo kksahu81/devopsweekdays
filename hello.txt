@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hello world
+=======
+hello world
+HI changes from remote
+>>>>>>> 08a77c6ba54c812848d095b6629a0a2de4b8252e
